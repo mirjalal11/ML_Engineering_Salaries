@@ -1,0 +1,895 @@
+work_year,employment_type,job_title,Gender,age,salary_in_usd,company_location
+2024,FT,Data Specialist,male,32,57008,GB
+2024,FT,Data Specialist,male,29,38651,GB
+2024,FT,Data Analyst,male,43,68750,GB
+2024,FT,Data Analyst,male,34,56250,GB
+2024,FT,Business Intelligence Lead,male,38,144300,US
+2024,FT,Business Intelligence Lead,male,27,104800,US
+2024,FT,Data Engineer,male,46,212750,US
+2024,FT,Data Engineer,male,30,157250,US
+2024,FT,Data Analyst,male,48,150000,US
+2024,FT,Data Analyst,male,29,129200,US
+2024,FT,Machine Learning Engineer,male,51,265000,US
+2024,FT,Machine Learning Engineer,male,45,170000,US
+2024,FT,Data Scientist,male,41,190000,US
+2024,FT,Data Scientist,male,32,155000,US
+2024,FT,Data Engineer,male,38,165000,US
+2024,FT,Data Engineer,male,49,100000,US
+2024,FT,Data Engineer,female,32,213900,US
+2024,FT,Data Engineer,male,31,126500,US
+2024,FT,Research Analyst,male,41,130000,US
+2024,FT,Research Analyst,male,28,104000,US
+2024,FT,Machine Learning Engineer,male,42,225000,US
+2024,FT,Machine Learning Engineer,male,30,66000,US
+2024,FT,ML Engineer,male,37,220000,US
+2024,FT,Business Intelligence Analyst,male,39,110000,US
+2024,FT,Business Intelligence Analyst,male,31,85000,US
+2024,FT,Machine Learning Engineer,male,46,282000,US
+2024,FT,Machine Learning Engineer,male,51,188000,US
+2024,FT,Data Science,male,29,219650,US
+2024,FT,Data Science,male,34,136000,US
+2024,FT,Data Science,male,28,210850,US
+2024,FT,Data Science,male,45,145400,US
+2024,FT,Data Analyst,male,32,143800,US
+2024,FT,Data Analyst,male,38,106300,US
+2024,FT,AI Engineer,female,41,150000,US
+2024,FT,AI Engineer,male,30,90200,US
+2024,FT,Data Engineer,male,26,140000,US
+2024,FT,Data Engineer,male,29,110000,US
+2024,FT,Data Analyst,male,40,140000,US
+2024,FT,Data Analyst,male,34,120000,US
+2024,PT,AI Software Engineer,male,52,117647,DK
+2024,PT,Research Scientist,male,41,138000,US
+2024,PT,Research Scientist,male,49,86000,US
+2024,FT,Data Scientist,male,26,199700,US
+2024,PT,Data Scientist,male,41,70800,US
+2024,FT,Research Analyst,female,35,175000,US
+2024,FT,Research Analyst,male,33,130000,US
+2024,FT,Data Architect,male,44,169847,US
+2024,FT,Data Architect,male,29,131631,US
+2024,FT,Machine Learning Scientist,female,43,277000,US
+2024,FT,Machine Learning Scientist,male,34,173000,US
+2024,FT,Machine Learning Engineer,male,38,264500,US
+2024,FT,Machine Learning Engineer,male,27,165600,US
+2024,FT,Business Intelligence,female,46,194000,US
+2024,FT,Business Intelligence,male,30,168000,US
+2024,FT,Data Engineer,male,48,90000,US
+2024,FT,Data Engineer,male,29,70000,US
+2024,FT,Data Scientist,male,51,137000,US
+2024,FT,Data Scientist,male,45,60400,US
+2024,FT,Data Science,male,41,197689,US
+2024,FT,Data Science,male,32,152311,US
+2024,FT,Research Analyst,male,38,209500,US
+2024,FT,Research Analyst,male,49,147500,US
+2024,FT,Data Engineer,male,32,170000,US
+2024,FT,Data Engineer,female,31,146000,US
+2024,FT,Machine Learning Engineer,male,41,220600,US
+2024,FT,Machine Learning Engineer,male,28,140100,US
+2024,FT,AI Engineer,male,42,236872,US
+2024,FT,AI Engineer,male,42,148045,US
+2024,FT,Data Science Engineer,male,35,143896,US
+2024,FT,Data Science Engineer,male,46,99208,US
+2024,FT,Applied Scientist,male,34,250000,US
+2024,FT,Applied Scientist,male,52,160000,US
+2024,FT,ML Engineer,female,41,200000,US
+2024,FT,ML Engineer,male,39,25000,US
+2024,FT,Data Engineer,male,48,137500,US
+2024,FT,Data Engineer,male,33,81500,US
+2024,FT,Data Science,male,29,209700,US
+2024,FT,Data Science,male,51,161300,US
+2024,FT,Data Scientist,male,40,249000,US
+2024,FT,Data Scientist,male,37,216000,US
+2024,FT,Data Engineer,male,34,170040,US
+2024,FT,Data Engineer,male,43,113360,US
+2024,FT,Machine Learning Operations Engineer,male,51,178250,US
+2024,FT,Machine Learning Operations Engineer,male,31,110500,US
+2024,FT,Data Analyst,male,30,83300,US
+2024,FT,Data Analyst,male,34,47500,US
+2024,FT,Data Scientist,male,52,200000,US
+2024,FT,Data Scientist,male,48,148500,US
+2024,FT,Data Architect,male,53,138000,US
+2024,FT,Data Architect,male,38,120000,US
+2024,FT,Research Scientist,male,44,250000,US
+2024,FT,Research Scientist,male,27,200000,US
+2024,FT,Data Engineer,male,55,110000,US
+2024,FT,Data Engineer,female,32,90000,US
+2024,FT,Data Engineer,male,47,142000,US
+2024,FT,Data Engineer,male,43,129500,US
+2024,FT,Data Product Manager,male,30,210554,US
+2024,FT,Data Product Manager,male,34,131596,US
+2024,FT,Data Engineer,male,45,170000,US
+2024,FT,Data Engineer,female,52,130000,US
+2024,FT,Data Engineer,male,50,159550,US
+2024,FT,Data Engineer,male,52,113000,US
+2024,FT,Data Engineer,female,41,135000,US
+2024,FT,Data Engineer,male,49,100000,US
+2024,FT,Machine Learning Engineer,male,26,245400,US
+2024,FT,Machine Learning Engineer,male,41,139000,US
+2024,FT,Data Engineer,male,35,190000,US
+2024,FT,Data Engineer,male,33,167000,US
+2024,FT,Machine Learning Engineer,female,44,304000,US
+2024,FT,Machine Learning Engineer,male,29,244000,US
+2024,FT,Data Analyst,male,43,62500,US
+2024,FT,Data Analyst,male,34,55000,US
+2024,FT,Data Scientist,male,38,247600,US
+2024,FT,Data Scientist,male,27,127300,US
+2024,FT,Data Science,male,46,210000,US
+2024,FT,Data Science,male,30,170000,US
+2024,FT,Applied Scientist,male,48,222200,US
+2024,FT,Applied Scientist,male,29,136000,US
+2024,FT,Research Analyst,male,51,200000,US
+2024,FT,Research Analyst,male,45,151300,US
+2024,FT,Data Scientist,male,41,110000,US
+2024,FT,Data Scientist,male,32,90000,US
+2024,FT,Data Analyst,male,38,156000,US
+2024,FT,Data Analyst,male,49,94000,US
+2024,FT,Research Scientist,male,32,212800,US
+2024,FT,Research Scientist,male,31,124100,US
+2024,FT,Analytics Engineer,male,41,195000,US
+2024,FT,Analytics Engineer,male,28,140000,US
+2023,FT,Data Modeler,male,42,130000,US
+2023,FT,Data Scientist,male,42,240000,US
+2023,FT,Data Scientist,male,35,180000,US
+2023,FT,AI Engineer,male,46,170200,US
+2023,FT,AI Engineer,male,34,83900,US
+2023,FT,Data Scientist,male,38,210000,US
+2023,FT,Data Scientist,male,27,165000,US
+2023,FT,Research Scientist,male,46,300000,US
+2023,FT,Research Scientist,male,30,150000,US
+2023,FT,ML Engineer,male,48,300000,US
+2023,FT,ML Engineer,male,29,150000,US
+2023,FT,Data Scientist,male,51,212800,US
+2023,FT,Data Scientist,male,45,111600,US
+2023,FT,Data Engineer,male,41,213600,US
+2023,FT,Data Engineer,male,32,103200,US
+2023,FT,Data Scientist,male,38,230000,CA
+2023,FT,Data Scientist,male,49,153000,CA
+2023,FT,Research Engineer,male,32,308000,US
+2023,FT,Research Engineer,male,43,190400,US
+2023,FT,Data Scientist,male,29,204000,US
+2023,FT,Data Scientist,male,34,127500,US
+2023,FT,Data Scientist,male,30,250000,US
+2023,FT,Data Scientist,male,53,125000,US
+2023,FT,Research Engineer,male,42,385000,US
+2023,FT,Research Engineer,male,40,310000,US
+2023,FT,Data Analyst,male,49,120000,US
+2023,PT,Data Analyst,male,36,88000,US
+2023,FT,Machine Learning Engineer,male,34,158000,US
+2023,FT,Machine Learning Engineer,female,39,108000,US
+2023,FT,Data Engineer,male,33,385000,US
+2023,FT,Data Engineer,female,45,310000,US
+2023,FT,Data Engineer,male,52,247300,US
+2023,FT,Data Engineer,male,51,139700,US
+2023,FT,Data Scientist,male,47,240000,US
+2023,FT,Data Scientist,female,32,180000,US
+2023,FT,Data Engineer,male,38,130000,US
+2023,FT,Data Engineer,male,43,101570,US
+2023,FT,Data Scientist,male,49,210000,US
+2023,FT,Data Scientist,male,53,165000,US
+2023,FT,AI Engineer,male,28,170200,US
+2023,FT,AI Engineer,male,38,83900,US
+2023,FT,Applied Scientist,male,44,222200,US
+2023,FT,Applied Scientist,male,32,136000,US
+2023,FT,Data Engineer,male,43,169000,US
+2023,FT,Data Engineer,male,40,91000,US
+2023,FT,Data Scientist,female,33,135000,US
+2023,FT,Data Scientist,male,30,110000,US
+2023,FT,Data Engineer,male,48,129192,GB
+2023,FT,Data Engineer,male,45,98432,GB
+2023,FT,AI Engineer,male,50,369120,GB
+2023,FT,AI Engineer,male,44,40680,GB
+2023,FT,Research Scientist,male,36,150000,US
+2023,FT,Research Scientist,male,27,130000,US
+2023,FT,Data Engineer,male,50,128000,US
+2023,FT,Data Engineer,female,42,81500,US
+2023,FT,Data Architect,male,44,306000,US
+2023,FT,Data Architect,male,52,204000,US
+2023,FT,Data Scientist,male,36,185900,US
+2023,FT,Data Scientist,male,32,129300,US
+2023,FT,Machine Learning Engineer,male,54,204500,US
+2023,FT,Machine Learning Engineer,male,33,142200,US
+2023,FT,Machine Learning Engineer,male,53,75577,NL
+2023,FT,Data Engineer,male,38,18000,IN
+2023,FT,Data Analyst,male,34,369120,GB
+2023,FT,Data Analyst,male,30,61520,GB
+2023,FT,Head of Data,male,46,270000,US
+2023,FT,Head of Data,male,37,200000,US
+2023,FT,Data Scientist,male,51,204500,US
+2023,FT,Data Scientist,male,45,142200,US
+2023,FT,Data Analyst,male,41,92280,GB
+2023,FT,Data Analyst,male,32,67672,GB
+2023,FT,Data Engineer,male,38,188600,US
+2023,FT,Data Engineer,male,49,111550,US
+2023,FT,Machine Learning Engineer,male,32,230000,US
+2023,FT,Machine Learning Engineer,male,43,160000,US
+2023,FT,Data Engineer,female,29,247300,US
+2023,FT,Data Engineer,male,34,139700,US
+2023,FT,AI Engineer,male,30,360000,US
+2023,FT,AI Engineer,male,53,240000,US
+2023,FT,ETL Developer,male,42,129100,US
+2023,FT,ETL Developer,male,40,111400,US
+2023,FT,Data Analyst,female,49,135000,US
+2023,FT,Data Analyst,male,36,110000,US
+2023,FT,Machine Learning Engineer,male,34,214500,US
+2023,FT,Machine Learning Engineer,female,39,132600,US
+2023,FT,Data Analyst,male,33,120000,US
+2023,FT,Data Analyst,male,45,100000,US
+2023,FT,Machine Learning Engineer,male,52,242921,US
+2023,FT,Machine Learning Engineer,male,51,170045,US
+2023,FT,Data Engineer,male,47,225000,US
+2023,FT,Data Engineer,female,34,175000,US
+2023,FT,Data Scientist,male,52,180000,US
+2023,FT,Data Scientist,male,41,162000,US
+2023,FT,Data Architect,female,39,175000,US
+2023,FT,Data Architect,female,48,90000,US
+2023,FT,Data Scientist,male,33,156450,US
+2023,FT,Data Scientist,male,29,119200,US
+2023,FT,Data Scientist,male,51,245000,US
+2023,FT,Data Scientist,male,40,185000,US
+2023,FT,Machine Learning Engineer,male,37,214500,US
+2023,FT,Machine Learning Engineer,female,34,132600,US
+2023,FT,Data Scientist,male,43,154800,US
+2023,FT,Data Scientist,male,51,76300,US
+2023,FT,Data Scientist,male,31,178600,US
+2023,FT,Data Scientist,female,30,88600,US
+2023,FT,Research Scientist,male,34,248100,US
+2023,FT,Research Scientist,male,52,145900,US
+2023,FT,Data Analyst,male,48,93919,US
+2023,FT,Data Analyst,male,53,51962,US
+2023,FT,Data Scientist,male,38,207345,US
+2023,FT,Data Scientist,male,44,180300,US
+2023,FT,Machine Learning Engineer,male,27,200000,US
+2023,FT,Machine Learning Engineer,male,55,140000,US
+2023,FT,Analytics Engineer,male,32,205000,US
+2023,FT,Analytics Engineer,female,47,167500,US
+2023,FT,Data Analyst,male,43,140000,US
+2023,FT,Data Analyst,male,30,110000,US
+2023,FT,Data Scientist,male,34,228045,US
+2023,FT,Data Scientist,male,45,198300,US
+2023,FT,Data Engineer,female,52,150000,US
+2023,FT,Data Engineer,male,50,140000,US
+2023,FT,Data Analyst,male,52,100000,US
+2023,FT,Data Analyst,male,41,75000,US
+2023,FT,Data Scientist,female,49,48585,ES
+2023,FT,Data Scientist,male,26,38868,ES
+2023,FT,BI Developer,male,41,100000,US
+2023,FT,BI Developer,male,35,75000,US
+2023,FT,Data Scientist,male,33,78125,LV
+2023,FT,Data Scientist,male,44,40423,LV
+2023,FT,Data Modeler,male,29,140000,US
+2023,FT,Data Modeler,male,43,100000,US
+2023,FT,Data Analytics Manager,male,34,125000,US
+2023,FT,Data Analytics Manager,male,30,120000,US
+2023,FT,Business Intelligence Analyst,female,48,127000,US
+2023,FT,Business Intelligence Analyst,male,29,99000,US
+2023,FT,Data Engineer,male,51,130000,US
+2023,FT,Data Engineer,male,45,120000,US
+2023,FT,Business Intelligence Analyst,male,41,194500,US
+2023,FT,Business Intelligence Analyst,female,32,132320,US
+2023,FT,Data Engineer,female,38,135000,US
+2023,FT,Data Engineer,female,49,90000,US
+2023,FT,Data Analyst,male,32,223602,US
+2023,FT,Data Analyst,male,31,143520,US
+2023,FT,Machine Learning Scientist,male,41,180000,US
+2023,FT,Machine Learning Scientist,male,28,140000,US
+2023,FT,Data Scientist,female,42,180000,US
+2023,FT,Data Scientist,male,42,162000,US
+2023,FT,Data Engineer,male,35,121809,GB
+2023,FT,Data Engineer,male,46,83667,GB
+2023,FT,Data Analyst,male,34,120350,US
+2023,FT,Data Analyst,female,52,74400,US
+2023,FT,Data Scientist,male,41,185000,US
+2023,FT,Data Scientist,female,39,123000,US
+2023,FT,Data Engineer,male,48,140000,US
+2023,FT,Data Engineer,male,33,90000,US
+2023,FT,Machine Learning Engineer,male,29,214500,US
+2023,FT,Machine Learning Engineer,male,51,132600,US
+2023,FT,Data Engineer,female,40,154000,US
+2023,FT,Data Engineer,male,37,103000,US
+2023,FT,Data Analyst,male,34,90000,US
+2023,FT,Data Analyst,male,43,80000,US
+2023,FT,Data Manager,male,51,140000,US
+2023,FT,Data Manager,female,31,100000,US
+2023,FT,Data Engineer,male,30,170000,US
+2023,FT,Data Engineer,male,34,100000,US
+2023,FT,Data Analyst,male,52,115000,US
+2023,FT,Data Analyst,male,48,105000,US
+2023,FT,Data Scientist,female,35,296100,US
+2023,FT,Data Scientist,male,27,144500,US
+2023,FT,Data Engineer,female,52,220000,US
+2023,FT,Data Engineer,male,44,187000,US
+2023,FT,Data Science Manager,male,35,152000,US
+2023,FT,Data Analyst,male,29,138000,US
+2023,FT,Data Analyst,male,43,92000,US
+2023,FT,Data Engineer,female,38,288000,US
+2023,FT,Data Engineer,male,53,160000,US
+2023,FT,Data Analyst,female,54,93918,US
+2023,FT,Data Analyst,male,31,51962,US
+2023,FT,Data Engineer,male,40,107968,DE
+2023,FT,Data Engineer,male,51,90599,DE
+2023,FT,Data Scientist,male,28,189750,US
+2023,FT,Data Scientist,male,45,145000,US
+2023,FT,Data Engineer,male,48,225500,US
+2023,FT,Data Engineer,male,34,139400,US
+2023,FT,Data Analyst,female,52,130000,US
+2023,FT,Data Analyst,male,34,95000,US
+2023,FT,Data Scientist,male,40,359170,US
+2023,FT,Data Scientist,male,28,310270,US
+2023,FT,Data Engineer,male,45,252000,US
+2023,FT,Data Engineer,male,27,140000,US
+2023,FT,Data Scientist,female,50,82254,CA
+2023,FT,Data Scientist,male,37,61699,CA
+2023,FT,Business Intelligence Engineer,female,39,247500,US
+2023,FT,Business Intelligence Engineer,female,34,172200,US
+2023,FT,Business Intelligence Analyst,male,43,87500,US
+2023,PT,Business Intelligence Analyst,male,41,62500,US
+2023,FT,Analytics Engineer,male,53,146000,CA
+2023,FT,Analytics Engineer,male,27,108000,CA
+2023,FT,Decision Scientist,male,38,204500,US
+2023,FT,Decision Scientist,female,30,142200,US
+2023,FT,Data Analyst,male,41,138000,US
+2023,FT,Data Analyst,male,32,92000,US
+2023,FT,Research Engineer,male,40,273000,US
+2023,FT,Research Engineer,male,53,166500,US
+2023,FT,Research Analyst,female,32,65000,US
+2023,FT,Research Analyst,male,30,45000,US
+2023,FT,Data Engineer,male,54,180000,US
+2023,FT,Data Engineer,male,43,150000,US
+2023,FT,Data Scientist,male,46,174000,US
+2023,FT,Data Scientist,male,33,139000,US
+2023,FT,Research Scientist,male,29,212800,US
+2023,FT,Research Scientist,male,51,124100,US
+2023,FT,Machine Learning Engineer,male,46,247500,US
+2023,FT,Machine Learning Engineer,female,30,172200,US
+2023,FT,Data Scientist,male,44,189750,CA
+2023,FT,Data Scientist,female,53,119213,CA
+2023,FT,Analytics Engineer,female,43,190000,CA
+2023,FT,Analytics Engineer,male,29,140000,CA
+2023,FT,Machine Learning Engineer,male,30,228830,US
+2023,FT,Machine Learning Engineer,male,52,148590,US
+2023,FT,AI Developer,male,43,140000,US
+2023,FT,Machine Learning Scientist,male,29,180514,GB
+2023,FT,Machine Learning Scientist,female,51,108308,GB
+2023,FT,Machine Learning Scientist,male,45,220000,US
+2023,FT,Machine Learning Scientist,male,41,170000,US
+2023,FT,Business Intelligence Analyst,male,32,169000,US
+2023,FT,Business Intelligence Analyst,male,38,110600,US
+2023,FT,Data Engineer,female,49,180514,GB
+2023,FT,Data Engineer,male,32,108308,GB
+2023,FT,Data Engineer,male,31,247300,US
+2023,FT,Data Engineer,male,41,139700,US
+2023,FT,Data Engineer,male,28,77737,ES
+2023,FT,Data Engineer,male,42,64311,ES
+2023,FT,Research Scientist,female,42,205500,US
+2023,FT,Research Scientist,male,35,132500,US
+2023,FT,Data Analyst,male,46,75000,US
+2023,FT,Data Analyst,male,34,65000,US
+2023,FT,Data Engineer,male,52,121000,US
+2023,FT,Data Engineer,male,41,78000,US
+2023,FT,Data Engineer,female,39,160000,US
+2023,FT,Data Engineer,male,48,145000,US
+2023,FT,Data Engineer,male,33,75577,IT
+2023,FT,Data Engineer,female,29,62433,IT
+2023,FT,Data Scientist,male,51,238000,CA
+2023,FT,Data Scientist,male,40,156000,CA
+2023,FT,Data Analyst,male,37,204500,US
+2023,FT,Data Analyst,male,34,138900,US
+2023,FT,Machine Learning Engineer,male,43,204500,US
+2023,FT,Machine Learning Engineer,female,51,142200,US
+2023,FT,Data Engineer,male,31,160000,US
+2023,FT,Data Engineer,male,30,120000,US
+2023,FT,Data Engineer,female,34,254000,US
+2023,FT,Data Engineer,female,52,200000,US
+2023,FT,Data Scientist,male,48,228000,US
+2023,FT,Data Scientist,male,32,136000,US
+2023,FT,Data Scientist,male,31,233300,US
+2023,FT,Data Scientist,male,41,155500,US
+2023,FT,Power BI Developer,male,28,64781,DK
+2023,FT,Data Analyst,female,42,94000,US
+2023,FT,Data Analyst,male,42,81900,US
+2023,FT,Data Engineer,male,35,190000,US
+2023,FT,Data Engineer,male,46,140000,US
+2023,FT,Data Engineer,female,34,199000,GB
+2023,FT,Data Engineer,male,38,162000,GB
+2023,FT,Data Analyst,male,27,92280,GB
+2023,FT,Data Analyst,male,46,67672,GB
+2023,FT,Data Engineer,male,30,208000,US
+2023,FT,Data Engineer,male,48,109500,US
+2023,FT,Data Operations Engineer,male,29,240000,US
+2023,FT,Data Operations Engineer,male,51,238530,US
+2023,FT,Data Quality Analyst,male,45,95000,US
+2023,FT,Data Quality Analyst,male,50,82000,US
+2023,FT,Data Analyst,female,37,80000,US
+2023,FT,Data Analyst,male,39,70000,US
+2023,FT,Business Intelligence Engineer,male,34,155000,US
+2023,FT,Business Intelligence Engineer,male,43,130000,US
+2023,FT,Data Analyst,male,41,169000,US
+2023,FT,Data Analyst,female,53,110600,US
+2023,FT,Data Scientist,male,27,190000,US
+2023,FT,Data Scientist,male,38,150000,US
+2023,FT,Data Scientist,male,30,154700,US
+2023,FT,Data Scientist,male,41,118900,US
+2023,FT,Data Engineer,male,32,232960,US
+2023,FT,Data Engineer,female,40,166400,US
+2023,FT,Data Scientist,male,53,156000,US
+2023,FT,Data Scientist,male,45,105000,US
+2023,FT,Machine Learning Engineer,male,37,193000,CA
+2023,FT,Machine Learning Engineer,male,51,143000,CA
+2023,FT,Data Engineer,male,31,190000,US
+2023,FT,Data Engineer,male,34,140000,US
+2023,FT,Data Analyst,male,29,138860,US
+2023,FT,Data Analyst,female,47,119610,US
+2023,FT,Data Scientist,male,41,205485,US
+2023,FT,Data Scientist,female,43,156560,US
+2023,FT,Data Scientist,male,36,230000,US
+2023,FT,Data Scientist,male,39,175000,US
+2023,FT,Machine Learning Engineer,male,28,210600,GB
+2023,FT,Machine Learning Engineer,male,30,135000,GB
+2023,FT,Data Scientist,male,48,265000,US
+2023,FT,Data Scientist,male,52,153000,US
+2023,FT,Analytics Engineer,male,34,260000,US
+2023,FT,Analytics Engineer,male,55,170000,US
+2023,FT,Data Engineer,male,49,105000,US
+2023,FT,Data Engineer,female,42,65000,US
+2023,FT,Data Engineer,male,35,157550,US
+2023,FT,Data Engineer,male,51,104650,US
+2023,FT,Business Intelligence Engineer,male,43,225000,US
+2023,FT,Business Intelligence Engineer,female,38,156400,US
+2023,FT,Data Analyst,male,47,150000,US
+2023,FT,Data Analyst,male,34,125000,US
+2023,FT,Data Scientist,male,36,135000,GB
+2023,FT,Data Scientist,male,44,100000,GB
+2023,FT,Data Analyst,male,51,100000,US
+2023,FT,Data Analyst,female,32,59000,US
+2023,FT,Data Science Consultant,male,35,70132,GB
+2023,FT,Data Science Consultant,male,45,51676,GB
+2023,FT,Data Scientist,female,29,92280,GB
+2023,FT,Data Scientist,male,30,79976,GB
+2022,FT,Business Intelligence Developer,male,41,15000,GH
+2023,FT,Applied Data Scientist,male,33,64781,DE
+2023,FT,Data Scientist,male,39,225000,US
+2023,FT,Data Scientist,male,28,156400,US
+2023,FT,Data Analyst,female,34,144100,US
+2023,FT,Data Analyst,male,46,89100,US
+2023,FT,Data Engineer,male,35,185900,US
+2023,FT,Data Engineer,male,36,129300,US
+2023,FT,Data Analytics Manager,male,46,177000,US
+2023,FT,Data Analytics Manager,male,35,110000,US
+2023,FT,Research Engineer,male,28,140000,US
+2023,FT,Research Engineer,male,34,100000,US
+2023,FT,Data Scientist,male,52,145000,US
+2023,FT,Data Scientist,male,48,115000,US
+2023,FT,Data Engineer,male,35,193600,US
+2023,FT,Data Engineer,male,27,119700,US
+2023,FT,Data Analyst,male,52,94000,US
+2023,FT,Data Analyst,female,44,81900,US
+2023,FT,Data Scientist,male,35,164000,US
+2023,FT,Data Scientist,female,29,130000,US
+2023,FT,Data Engineer,male,43,190000,US
+2023,FT,Data Engineer,male,38,140000,US
+2023,FT,Head of Data Science,male,53,131721,NL
+2023,FT,Data Scientist,male,54,323300,US
+2023,FT,Data Scientist,female,31,184700,US
+2023,FT,ML Engineer,male,40,180000,US
+2023,FT,ML Engineer,male,51,120000,US
+2023,FT,Data Analyst,male,31,93918,US
+2023,FT,Data Analyst,female,34,51962,US
+2023,FT,Data Scientist,male,29,150000,US
+2023,FT,Data Scientist,female,47,130000,US
+2023,FT,Data Engineer,male,41,242000,CA
+2023,FT,Data Engineer,male,43,134000,CA
+2023,FT,Data Strategist,male,36,104000,US
+2023,FT,Data Strategist,male,39,86000,US
+2023,FT,Machine Learning Engineer,male,28,258800,GB
+2023,FT,Machine Learning Engineer,male,30,199200,GB
+2023,FT,Data Scientist,male,48,201000,US
+2023,FT,Data Scientist,male,52,122000,US
+2023,FT,Data Analyst,male,34,110000,US
+2023,FT,Data Analyst,male,55,90000,US
+2023,FT,Research Engineer,female,49,141100,US
+2023,FT,Research Engineer,male,42,94100,US
+2023,FT,Data Engineer,female,35,210000,US
+2023,FT,Data Engineer,male,51,165000,US
+2023,FT,Data Engineer,male,43,185900,US
+2023,FT,Data Engineer,male,38,129300,US
+2023,FT,Data Scientist,male,47,140000,US
+2023,FT,Data Scientist,male,34,126000,US
+2023,FT,Data Scientist,female,36,170000,US
+2023,FT,Data Scientist,male,44,130000,US
+2023,FT,Data Engineer,male,51,104584,GB
+2023,FT,Data Engineer,male,32,92280,GB
+2023,FT,Analytics Engineer,female,35,208500,US
+2023,FT,Analytics Engineer,male,45,165000,US
+2023,FT,Data Engineer,male,29,77737,DE
+2023,FT,Data Engineer,male,30,86374,SE
+2023,FT,Business Intelligence Developer,male,41,169000,US
+2023,FT,Business Intelligence Developer,male,33,110600,US
+2023,FT,Data Scientist,male,39,185900,US
+2023,FT,Data Scientist,male,28,129300,US
+2023,FT,Data Scientist,male,34,225000,US
+2023,FT,Data Scientist,female,29,156400,US
+2023,FT,Machine Learning Engineer,male,51,309000,US
+2023,FT,Machine Learning Engineer,male,46,142000,US
+2023,FT,Data Scientist,female,30,225000,US
+2023,FT,Data Scientist,male,44,156400,US
+2023,FT,Data Analyst,male,53,204500,US
+2023,FT,Data Analyst,male,43,138900,US
+2023,FT,Data Scientist,male,29,185900,US
+2023,FT,Data Scientist,male,30,129300,US
+2023,FT,Machine Learning Engineer,male,52,323300,US
+2023,FT,Machine Learning Engineer,male,43,184700,US
+2023,FT,Machine Learning Engineer,male,29,247500,US
+2023,FT,Machine Learning Engineer,female,51,172200,US
+2023,FT,Decision Scientist,male,45,204500,US
+2023,FT,Decision Scientist,male,41,142200,US
+2023,FT,Machine Learning Software Engineer,male,32,24322,IN
+2023,FT,BI Developer,male,38,135000,US
+2023,FT,BI Developer,female,43,110000,US
+2023,FT,Machine Learning Scientist,male,34,180514,GB
+2023,FT,Machine Learning Scientist,male,29,108308,GB
+2023,FT,BI Analyst,male,30,118800,US
+2023,FT,BI Analyst,male,45,75000,US
+2023,FT,Data Manager,male,51,145000,US
+2023,FT,Data Manager,male,33,130000,US
+2023,FT,Data Engineer,male,38,180514,GB
+2023,FT,Data Engineer,male,47,108308,GB
+2023,FT,Machine Learning Engineer,female,43,193600,US
+2023,FT,Machine Learning Engineer,male,32,119700,US
+2023,FT,BI Analyst,male,39,130800,US
+2023,PT,BI Analyst,female,40,87200,US
+2023,FT,Data Engineer,male,42,215000,US
+2023,FT,Data Engineer,male,44,150000,US
+2023,FT,Business Intelligence Engineer,male,50,247500,US
+2023,FT,Business Intelligence Engineer,male,46,172200,US
+2023,PT,Data Scientist,male,30,61520,GB
+2023,PT,Data Scientist,male,28,49216,GB
+2023,FT,Machine Learning Engineer,male,48,204500,US
+2023,FT,Machine Learning Engineer,male,39,331640,US
+2023,FT,Machine Learning Engineer,female,32,267720,US
+2023,FT,Data Architect,male,33,150000,US
+2023,FT,Data Architect,male,37,100000,US
+2023,FT,Data Scientist,male,46,126500,US
+2023,FT,Data Scientist,male,28,78000,US
+2023,FT,Data Scientist,male,38,48585,ES
+2023,FT,Data Scientist,male,46,38868,ES
+2023,FT,Data Analyst,male,54,126500,US
+2023,FT,Data Analyst,male,34,78000,US
+2023,FT,BI Developer,female,30,167500,US
+2023,FT,BI Developer,male,29,106500,US
+2023,FT,Data Scientist,male,48,105000,US
+2023,FT,Data Scientist,male,31,70000,US
+2023,FT,Machine Learning Engineer,male,34,300000,GB
+2023,FT,Machine Learning Engineer,female,42,200000,GB
+2023,FT,Data Engineer,male,45,96000,US
+2023,FT,Data Engineer,male,38,72000,US
+2023,FT,Research Scientist,male,36,323300,US
+2023,FT,Research Scientist,male,44,184700,US
+2023,FT,Data Scientist,male,37,205150,US
+2023,FT,Data Scientist,male,35,167850,US
+2023,FT,Data Scientist,male,43,267100,US
+2023,FT,Data Scientist,male,33,167200,US
+2023,FT,Business Intelligence Engineer,male,29,247500,US
+2023,FT,Business Intelligence Engineer,female,40,172200,US
+2023,FT,Data Analyst,male,32,130000,US
+2023,FT,Data Analyst,male,31,110000,US
+2023,FT,Research Engineer,male,35,253000,US
+2023,FT,Research Engineer,male,39,156400,US
+2023,FT,Applied Scientist,female,40,222200,US
+2023,FT,Applied Scientist,male,46,136000,US
+2023,FT,Research Scientist,male,37,278700,US
+2023,FT,Research Scientist,male,29,159300,US
+2023,FT,Data Scientist,female,40,222750,US
+2023,FT,Data Scientist,male,39,182250,US
+2023,FT,Data Science Engineer,male,50,104024,CH
+2023,FT,Data Scientist,male,37,50745,AD
+2023,FT,Data Engineer,male,49,215000,US
+2023,FT,Data Engineer,male,38,185000,US
+2023,FT,Machine Learning Engineer,male,33,296400,US
+2023,FT,Machine Learning Engineer,male,43,148594,US
+2023,FT,Data Scientist,male,51,206000,US
+2023,FT,Data Scientist,male,44,140250,US
+2023,FT,Data Analytics Manager,female,37,254500,US
+2023,FT,Data Analytics Manager,male,47,130900,US
+2023,FT,Data Scientist,male,36,198000,US
+2023,FT,Data Scientist,male,44,124000,US
+2023,FT,Data Manager,male,40,145000,US
+2023,FT,Data Manager,female,37,130000,US
+2023,FT,BI Analyst,female,32,234485,US
+2023,FT,BI Analyst,female,30,112655,US
+2023,FT,Machine Learning Engineer,male,45,296400,US
+2023,FT,Machine Learning Engineer,male,40,148594,US
+2023,FT,Applied Scientist,male,51,222200,US
+2023,FT,Applied Scientist,male,29,136000,US
+2023,FT,Machine Learning Engineer,male,34,200000,US
+2023,FT,Machine Learning Engineer,male,33,150000,US
+2023,FT,Data Analyst,male,47,125000,US
+2023,FT,Data Analyst,female,38,105000,US
+2023,FT,Data Scientist,male,39,86128,GB
+2023,FT,Data Scientist,female,40,51676,GB
+2023,FT,Data Engineer,male,45,70179,FR
+2023,FT,Data Engineer,male,29,64781,FR
+2023,FT,Data Scientist,male,38,258000,CA
+2023,FT,Data Scientist,male,40,190000,CA
+2023,FT,Data Scientist,male,34,184184,US
+2023,FT,Data Scientist,male,33,167441,US
+2023,FT,AI Programmer,male,45,74087,CA
+2023,FT,Data Scientist,male,51,32390,NL
+2023,FT,Data Engineer,male,45,204500,US
+2023,FT,Data Engineer,female,41,130000,US
+2023,FT,Analytics Engineer,male,32,90000,US
+2023,FT,Analytics Engineer,male,38,84000,US
+2023,FT,Data Scientist,male,43,136000,US
+2023,FT,Data Scientist,male,34,104000,US
+2023,FT,Data Engineer,male,29,202400,US
+2023,FT,Data Engineer,male,30,147200,US
+2023,FT,Data Engineer,male,45,80000,US
+2023,FT,Data Engineer,male,51,52500,US
+2023,FT,Data Engineer,male,33,128000,US
+2023,FT,Data Engineer,female,38,81500,US
+2023,FT,Data Analyst,male,47,105000,US
+2023,FT,Data Analyst,male,43,75000,US
+2023,FT,Data Analyst,male,32,95000,US
+2023,FT,Data Analyst,male,39,75000,US
+2023,FT,Data Engineer,male,40,167500,US
+2023,FT,Data Engineer,male,42,106500,US
+2023,FT,Data Scientist,male,44,139500,US
+2023,FT,Data Scientist,male,50,90000,US
+2023,FT,Machine Learning Engineer,male,46,269500,US
+2023,FT,Machine Learning Engineer,female,30,166600,US
+2023,FT,AI Architect,male,28,330000,US
+2023,FT,AI Architect,female,48,204000,US
+2023,FT,Data Engineer,male,39,252000,US
+2023,FT,Data Engineer,male,32,129000,US
+2023,FT,Data Engineer,male,33,180000,US
+2023,FT,Data Engineer,male,37,165000,US
+2023,FT,Business Intelligence Engineer,male,46,192000,US
+2023,FT,Business Intelligence Engineer,male,28,142000,US
+2023,FT,Data Operations Manager,male,38,143000,US
+2023,FT,Data Operations Manager,male,46,129000,US
+2023,FT,Data Scientist,male,54,191000,US
+2023,FT,Data Scientist,male,34,146000,US
+2023,PT,Data Specialist,male,30,85000,US
+2023,PT,Data Specialist,male,29,70000,US
+2023,FT,Data Scientist,male,48,155000,US
+2023,FT,Data Scientist,male,31,139500,US
+2023,FT,Data Engineer,male,34,147648,GB
+2023,PT,Data Engineer,male,42,98432,GB
+2023,FT,Data Analyst,male,45,138860,US
+2023,FT,Data Analyst,male,38,122720,US
+2023,FT,Machine Learning Engineer,female,36,212800,US
+2023,FT,Machine Learning Engineer,male,44,144800,US
+2023,FT,Data Analyst,male,37,250000,US
+2023,FT,Data Analyst,male,35,100000,US
+2023,FT,Data Scientist,female,43,209450,US
+2023,FT,Data Scientist,male,33,167560,US
+2023,FT,Data Scientist,male,29,16000,EC
+2023,FT,Data Engineer,male,40,27000,PT
+2023,PT,Data Manager,male,32,72000,MX
+2023,FT,Data Engineer,male,31,172900,US
+2023,FT,Data Engineer,male,35,144100,US
+2023,FT,Data Scientist,male,39,230000,US
+2023,FT,Data Scientist,male,40,175000,US
+2023,FT,BI Analyst,male,46,160000,US
+2023,FT,BI Analyst,male,37,135000,US
+2023,FT,Data Analyst,male,29,150000,US
+2023,FT,Data Analyst,male,40,110000,US
+2023,FT,Data Analyst,female,39,101500,US
+2023,FT,Data Analyst,male,50,83700,US
+2023,FT,Data Scientist,male,37,310270,US
+2023,FT,Data Scientist,male,49,253430,US
+2023,FT,Business Intelligence Engineer,male,38,202800,US
+2023,FT,Business Intelligence Engineer,male,33,104300,US
+2023,FT,Data Analyst,female,43,110000,US
+2023,FT,Data Analyst,male,51,70000,US
+2023,FT,Data Scientist,male,44,283000,US
+2023,FT,Data Scientist,male,37,184000,US
+2023,FT,Data Analyst,female,47,166500,US
+2023,FT,Data Analyst,male,36,113220,US
+2023,FT,Data Scientist,male,44,220000,US
+2023,FT,Data Scientist,male,40,185000,US
+2023,FT,Data Engineer,male,37,260000,US
+2023,FT,Data Engineer,male,32,225000,US
+2023,FT,Applied Scientist,male,30,246500,US
+2023,FT,Applied Scientist,male,45,133500,US
+2023,FT,Data Engineer,male,40,331640,US
+2023,FT,Data Engineer,male,51,283780,US
+2023,FT,Deep Learning Engineer,male,29,331640,US
+2023,FT,Deep Learning Engineer,male,34,283780,US
+2023,FT,Data Scientist,male,33,174000,US
+2023,FT,Data Scientist,male,47,134000,US
+2023,FT,Data Scientist,male,38,359170,US
+2023,FT,Data Scientist,female,39,310270,US
+2023,FT,Machine Learning Engineer,male,40,331640,US
+2023,FT,Machine Learning Engineer,male,45,283780,US
+2023,FT,Data Scientist,male,29,359170,US
+2023,FT,Data Scientist,male,38,295490,US
+2023,FT,Research Engineer,male,40,189110,US
+2023,FT,Research Engineer,female,34,139000,US
+2023,FT,Head of Data Science,female,33,330000,US
+2023,FT,Head of Data Science,male,29,230000,US
+2023,FT,Data Engineer,male,43,254000,US
+2023,FT,Data Engineer,male,38,200000,US
+2023,FT,Applied Scientist,male,53,309400,US
+2023,FT,Applied Scientist,female,54,159100,US
+2023,FT,Machine Learning Engineer,male,31,331640,US
+2023,FT,Machine Learning Engineer,male,40,267720,US
+2023,FT,Machine Learning Engineer,male,51,283780,US
+2023,FT,Machine Learning Engineer,male,31,218540,US
+2023,FT,Data Scientist,male,34,123040,GB
+2023,FT,Data Scientist,male,29,73824,GB
+2023,FT,Data Manager,male,47,167000,US
+2023,FT,Data Manager,male,41,109000,US
+2023,FT,Data Engineer,male,43,208000,US
+2023,FT,Data Engineer,male,36,193000,US
+2023,FT,Data Scientist,male,39,359170,US
+2023,FT,Data Scientist,male,31,295490,US
+2020,FT,Data Analyst,female,34,47899,DE
+2023,FT,Lead Machine Learning Engineer,male,42,115000,ES
+2023,FT,Applied Scientist,male,45,216000,US
+2023,FT,Applied Scientist,male,38,184000,US
+2023,FT,Machine Learning Engineer,female,36,200000,US
+2023,FT,Machine Learning Engineer,male,44,145000,US
+2023,FT,Machine Learning Engineer,male,37,250000,US
+2023,FT,Machine Learning Engineer,male,35,166600,US
+2023,FT,Machine Learning Engineer,male,43,284000,US
+2023,FT,Machine Learning Engineer,male,33,227000,US
+2023,FT,Research Scientist,male,29,205000,US
+2023,FT,Research Scientist,male,40,160000,US
+2023,FT,Machine Learning Engineer,male,32,191400,US
+2023,FT,Machine Learning Engineer,male,31,127600,US
+2023,FT,Applied Scientist,male,35,222200,US
+2023,FT,Applied Scientist,male,39,136000,US
+2023,FT,Machine Learning Engineer,male,40,191400,US
+2023,FT,Machine Learning Engineer,male,46,127600,US
+2023,FT,Machine Learning Engineer,male,37,230000,US
+2023,FT,Machine Learning Engineer,female,29,175000,US
+2023,FT,Data Analyst,male,43,139600,US
+2023,FT,Data Analyst,male,527,85700,US
+2023,FT,Data Analytics Manager,male,35,38915,IN
+2023,FT,Data Quality Analyst,male,30,95000,US
+2023,FT,Data Quality Analyst,male,43,70000,US
+2023,FT,Data Engineer,male,40,258000,US
+2023,FT,Data Engineer,male,41,171000,US
+2023,FT,Decision Scientist,male,37,204500,US
+2023,FT,Decision Scientist,male,32,126400,US
+2023,FT,Data Engineer,male,44,87000,CA
+2023,PT,Data Engineer,male,38,73000,CA
+2023,PT,AI Scientist,female,29,20000,ES
+2020,FT,Managing Director Data Science,male,50,300000,US
+2023,FT,Data Modeller,male,26,110736,GB
+2023,PT,Data Modeller,male,39,55368,GB
+2023,FT,Data Engineer,female,32,232960,US
+2023,FT,Data Engineer,male,45,151840,US
+2023,FT,Data Engineer,male,40,163152,US
+2023,FT,Data Engineer,male,32,108768,US
+2023,FT,Research Engineer,male,43,370000,US
+2023,FT,Research Engineer,female,52,245000,US
+2023,FT,Machine Learning Engineer,male,31,285000,US
+2023,FT,Machine Learning Engineer,male,29,193900,US
+2023,FT,Research Scientist,male,47,240000,US
+2023,FT,Research Scientist,male,52,163200,US
+2023,FT,Data Scientist,male,44,222000,US
+2023,FT,Data Scientist,male,38,166500,US
+2023,FT,Machine Learning Engineer,male,33,240000,US
+2023,FT,Machine Learning Engineer,male,46,163200,US
+2023,FT,Research Scientist,male,42,345000,US
+2023,FT,Research Scientist,male,36,234700,US
+2023,FT,AI Scientist,male,31,100000,US
+2023,FT,Finance Data Analyst,male,40,40000,NG
+2023,FT,Machine Learning Engineer,male,52,226600,US
+2023,FT,Machine Learning Engineer,male,28,140100,US
+2023,FT,Data Engineer,female,35,241000,US
+2023,FT,Data Engineer,male,33,155000,US
+2023,FT,Software Data Engineer,male,49,210000,US
+2023,FT,Machine Learning Research Engineer,male,53,90000,ES
+2023,FT,Data Analyst,male,36,59382,DE
+2023,FT,Analytics Engineer,male,47,90000,US
+2023,PT,Analytics Engineer,male,28,84000,US
+2023,FT,Data Analyst,female,43,160000,US
+2023,FT,Data Analyst,male,29,140000,US
+2023,FT,Analytics Engineer,male,45,221300,US
+2023,PT,Analytics Engineer,male,39,147500,US
+2023,FT,Data Engineer,male,30,204500,US
+2023,PT,Data Engineer,male,32,130000,US
+2023,FT,Machine Learning Engineer,male,45,210000,US
+2023,FT,Machine Learning Engineer,male,54,160000,US
+2023,FT,Machine Learning Engineer,male,40,204500,US
+2023,FT,Machine Learning Engineer,male,44,142200,US
+2023,FT,Data Analyst,male,32,186600,US
+2023,FT,Data Analyst,male,28,119800,US
+2023,FT,Analytics Engineer,male,47,192000,US
+2023,FT,Analytics Engineer,male,45,151000,US
+2023,FT,Business Intelligence Engineer,female,33,185000,US
+2023,FT,Business Intelligence Engineer,male,38,79600,US
+2023,FT,Data Scientist,male,36,169000,US
+2023,FT,Data Scientist,male,44,129300,US
+2023,FT,Data Engineer,male,37,204500,US
+2023,FT,Data Engineer,male,35,142200,US
+2022,FT,AI Developer,male,43,275000,CA
+2023,PT,Machine Learning Researcher,male,33,50000,UA
+2023,FT,Machine Learning Engineer,male,29,280700,US
+2023,FT,Machine Learning Engineer,male,40,150450,US
+2023,FT,Data Scientist,male,32,51861,CA
+2023,FT,Data Architect,male,31,250500,US
+2023,FT,Data Architect,male,35,159500,US
+2023,FT,Data Engineer,male,39,145000,US
+2023,FT,Data Engineer,male,40,115000,US
+2023,FT,Data Analyst,male,46,140000,US
+2023,FT,Data Analyst,male,37,120000,US
+2023,FT,Data Scientist,male,29,130001,US
+2023,FT,Data Scientist,male,40,71907,US
+2023,FT,Data Scientist,male,39,93918,US
+2023,FT,Data Scientist,male,50,51962,US
+2023,FT,Data Analyst,male,37,175000,CA
+2023,FT,Data Analyst,male,49,135000,CA
+2023,FT,Data Engineer,male,38,85000,US
+2023,FT,Data Engineer,male,33,65000,US
+2023,FT,Machine Learning Engineer,male,43,257000,US
+2023,FT,Machine Learning Engineer,male,51,147000,US
+2023,FT,Data Engineer,male,44,222000,US
+2023,FT,Data Engineer,male,37,175000,US
+2023,FT,Data Scientist,male,47,203000,US
+2023,FT,Data Scientist,male,36,133200,US
+2023,FT,Applied Scientist,female,44,213660,US
+2023,FT,Applied Scientist,male,40,130760,US
+2023,FT,Data Engineer,male,37,221000,US
+2023,FT,Data Engineer,male,32,147000,US
+2023,FT,Data Quality Analyst,male,30,100000,US
+2023,FT,Data Quality Analyst,male,45,80000,US
+2023,FT,Data Scientist,male,40,185900,US
+2022,FT,Data Engineer,male,51,195700,US
+2022,FT,Data Engineer,male,29,130500,US
+2022,FT,ML Engineer,male,34,130000,US
+2022,FT,ML Engineer,male,33,84000,US
+2022,FT,Data Operations Engineer,male,47,100000,US
+2022,FT,Data Operations Engineer,male,38,60000,US
+2022,FT,Data Engineer,female,39,80036,GB
+2022,FT,Data Engineer,female,37,67723,GB
+2022,FT,Data Engineer,male,32,141300,US
+2022,FT,Data Engineer,male,30,102100,US
+2022,FT,Data Analyst,male,45,50432,ES
+2022,FT,Data Analyst,male,40,36773,ES
+2022,FT,Business Data Analyst,male,51,150000,US
+2022,FT,Data Scientist,male,29,102200,GB
+2022,FT,Data Scientist,male,34,22892,IN
+2022,FT,Data Analyst,male,33,144000,US
+2022,FT,Data Analyst,male,47,113000,US
+2022,FT,AI Scientist,male,38,31520,ES
+2022,FT,Data Architect,female,39,195400,US
+2022,FT,Data Architect,male,40,131300,US
+2022,FT,Machine Learning Engineer,male,45,195400,US
+2022,FT,Machine Learning Engineer,male,29,131300,US
+2022,FT,Data Architect,male,38,195400,US
+2022,FT,Data Architect,male,40,131300,US
+2022,FT,Data Architect,male,34,190000,US
+2022,FT,Data Architect,male,33,135000,US
+2022,FT,Data Engineer,female,29,135000,US
+2022,FT,Data Engineer,male,43,80000,US
+2022,FT,Data Engineer,male,38,160000,US
+2022,FT,Data Engineer,male,53,85000,US
+2022,FT,Data Engineer,male,54,178800,US
+2022,FT,Data Engineer,male,31,132100,US
+2022,PT,NLP Engineer,male,40,60000,US
+2022,FT,Machine Learning Engineer,female,51,63040,FI
+2022,FT,Business Data Analyst,male,31,50000,AS
+2022,FT,Data Engineer,male,34,140000,US
+2022,FT,Data Engineer,male,29,105000,US
+2022,FT,Data Engineer,female,47,80036,GB
+2022,FT,Data Engineer,male,41,67723,GB
+2022,FT,Analytics Engineer,female,43,190000,US
+2022,FT,Analytics Engineer,male,29,140000,US
+2022,FT,Data Operations Engineer,male,30,100000,US
+2022,FT,Data Operations Engineer,male,41,60000,US
+2022,FT,Data Scientist,male,33,180000,US
+2022,FT,Data Scientist,male,39,165000,US
+2022,FT,Applied Machine Learning Scientist,male,28,108000,US
+2021,FT,Machine Learning Research Engineer,male,34,20000,FR
+2022,FT,Data Architect,female,46,190000,US
+2022,FT,Data Architect,male,35,135000,US
+2022,FT,Data Scientist,male,36,179400,US
+2022,FT,Data Scientist,male,46,154000,US
+2020,FT,Data Scientist,male,35,412000,US
+2021,FT,Principal Data Scientist,male,28,151000,US
+2020,FT,Data Scientist,male,34,105000,US
+2020,PT,Business Data Analyst,female,52,100000,US
+2021,FT,Data Science Manager,male,48,94665,IN
